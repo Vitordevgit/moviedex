@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <header className="  p-4">
+    <header className="p-4 pb-12">
       <nav className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-3xl font-bold">
           moviedex
