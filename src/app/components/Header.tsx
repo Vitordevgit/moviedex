@@ -10,7 +10,7 @@ export default function Header() {
         </Link>
         <ul className="flex space-x-4">
           <li>
-            <Link href="/filmes" className="hover:underline">
+            <Link href="/movies" className="hover:underline">
               Filmes
             </Link>
           </li>
