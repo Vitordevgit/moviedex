@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Jost } from "next/font/google";
-import Header from "./components/Header";
+import Header from "../components/custom/Header";
 
 const jost = Jost({
   subsets: ["latin"],
